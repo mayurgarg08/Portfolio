@@ -32,7 +32,7 @@ import netflix from "./assets/netflix_img.png";
 /* ------------------------------------------------------------------ */
 const PHOTO_SRC = photo;
 const RESUME_URL =
-  "https://drive.google.com/file/d/1IWYWeCoAjeH42O_GOhGWbdR5hfJskSIi/view?usp=sharing";
+  "https://drive.google.com/file/d/15Jvnj3pQ7Do24FgP8wpx2XKOCXjTY3DB/view?usp=sharing";
 
 /* ------------------------------------------------------------------ */
 /*  Content                                                            */
